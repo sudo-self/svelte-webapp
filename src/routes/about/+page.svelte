@@ -9,9 +9,12 @@
 
     import logo22 from '$lib/images/logo22.webp';
 
+</script>
+
+
 <img alt="The project logo" src={gif} />
 
 <img alt="The project logo" src={logo22} />
 
 
-</script>
+
