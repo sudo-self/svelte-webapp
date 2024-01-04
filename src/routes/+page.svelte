@@ -13,7 +13,7 @@
 <img alt="The project logo" src={logo1} />
 <textarea rows="4" cols="8" readonly>
 
-// ((̲̅ ̲̅(̲̅SVELTE)( ̲̅((>  ♫♪.ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı.♫♪ //
+((̲̅ ̲̅(̲̅SVELTE)( ̲̅((> BoomBox ♫♪.ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı.♫♪ 
 
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
 width="300.000000pt" height="188.000000pt" viewBox="0 0 300.000000 188.000000"
@@ -21,6 +21,7 @@ preserveAspectRatio="xMidYMid meet">
 <metadata>
 Created by Jesse Roper 2024
 </metadata>
+
 <g transform="translate(0.000000,188.000000) scale(0.100000,-0.100000)"
 fill="#000000" stroke="none">
 <path d="M1345 1859 c-148 -12 -281 -57 -405 -137 -218 -140 -361 -348 -415
@@ -133,10 +134,10 @@ l-35 6 28 30 c31 33 35 34 52 17z"/>
 -18 7z"/>
 </g>
 </svg>
-
+__̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫̲͡ ̲̲̲͡͡π̲̲͡͡ ̲̲͡▫̲̲͡͡ ̲|̡̡̡ ̡ ̴̡ı̴̡̡ ̡͌l̡̡̡̡.___
 </textarea>
 
-<h1><pre><a href="https://wurdle.jessejesse.com/sverdle">CO-OP Wurdle</a></pre></h1>
+<h1><pre><a href="https://wurdle.jessejesse.com/">CO-OP Wurdle</a>&nbsp;&nbsp;</pre></h1>
 
 
 
