@@ -1,0 +1,8 @@
+import{s as b,f as y,n as v}from"../chunks/scheduler.8DbVFZvG.js";import{S as M,i as S,g as u,s as f,B as w,h as m,f as l,c as g,j as A,y as L,k as r,A as O,a as o}from"../chunks/index.GP9T9H_y.js";import{l as q}from"../chunks/logo1.mMqHU77b.js";const C=!0,R=Object.freeze(Object.defineProperty({__proto__:null,prerender:C},Symbol.toStringTag,{value:"Module"})),B=""+new URL("../assets/logo.bwLuQSmC.png",import.meta.url).href;function H(E){let a,p,n,T,_,c,x,d,s,h,i,j='<pre><a href="https://wurdle.jessejesse.com/">CO-OP Wurdle</a>  </pre>';return{c(){a=u("meta"),p=f(),n=u("img"),_=f(),c=u("img"),d=f(),s=u("textarea"),h=f(),i=u("h1"),i.innerHTML=j,this.h()},l(e){const t=w("svelte-1dq6ppu",document.head);a=m(t,"META",{name:!0,content:!0}),t.forEach(l),p=g(e),n=m(e,"IMG",{alt:!0,src:!0}),_=g(e),c=m(e,"IMG",{alt:!0,src:!0}),d=g(e),s=m(e,"TEXTAREA",{rows:!0,cols:!0}),A(s).forEach(l),h=g(e),i=m(e,"H1",{"data-svelte-h":!0}),L(i)!=="svelte-qylxdd"&&(i.innerHTML=j),this.h()},h(){document.title="WebDev",r(a,"name","description"),r(a,"content","About this app"),r(n,"alt","The project logo"),y(n.src,T=B)||r(n,"src",T),r(c,"alt","The project logo"),y(c.src,x=q)||r(c,"src",x),r(s,"rows","4"),r(s,"cols","8"),s.readOnly=!0,s.value=`
+((̲̅ ̲̅(̲̅SVELTE)( ̲̅((> BoomBox ♫♪.ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı.♫♪ 
+
+
+__̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫̲͡ ̲̲̲͡͡π̲̲͡͡ ̲̲͡▫̲̲͡͡ ̲|̡̡̡ ̡ ̴̡ı̴̡̡ ̡͌l̡̡̡̡̡._
+
+
+`},m(e,t){O(document.head,a),o(e,p,t),o(e,n,t),o(e,_,t),o(e,c,t),o(e,d,t),o(e,s,t),o(e,h,t),o(e,i,t)},p:v,i:v,o:v,d(e){e&&(l(p),l(n),l(_),l(c),l(d),l(s),l(h),l(i)),l(a)}}}class W extends M{constructor(a){super(),S(this,a,null,H,b,{})}}export{W as component,R as universal};
