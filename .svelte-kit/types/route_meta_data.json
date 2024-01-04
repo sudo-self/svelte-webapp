@@ -3,7 +3,8 @@
 		"src/routes/+page.ts"
 	],
 	"/about": [
-		"src/routes/about/+page.ts"
+		"src/routes/about/+page.ts",
+		"src/routes/about/+page.server.ts"
 	],
 	"/sverdle": [
 		"src/routes/sverdle/+page.server.ts"
