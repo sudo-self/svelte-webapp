@@ -27,7 +27,7 @@ __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫
 
 
 
-<h1><pre><a href="https://wurdle.jessejesse.com/">CO-OP Wurdle</a>&nbsp;&nbsp;</pre></h1>
+<h1><pre><a href="https://kv.jessejesse.com/"><a style="color:purple">kv.JesseJesse</a>&nbsp;&nbsp;</pre></h1>
 
 
 
