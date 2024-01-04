@@ -36,6 +36,12 @@ declare module '$env/static/private' {
 	export const TMPDIR: string;
 	export const CHROME_BIN: string;
 	export const PWD: string;
+	export const JSH_DOTENV: string;
+	export const NEXT_TELEMETRY_DISABLED: string;
+	export const ASTRO_TELEMETRY_DISABLED: string;
+	export const __NEXT_DISABLE_MEMORY_WATCHER: string;
+	export const NG_CLI_ANALYTICS: string;
+	export const EDITOR: string;
 	export const npm_config_user_agent: string;
 	export const INIT_CWD: string;
 	export const npm_config_update_notifier: string;
@@ -52,7 +58,6 @@ declare module '$env/static/private' {
 	export const npm_config_metrics_registry: string;
 	export const npm_config_global_prefix: string;
 	export const npm_config_local_prefix: string;
-	export const EDITOR: string;
 	export const npm_node_execpath: string;
 	export const NODE: string;
 	export const COLOR: string;
@@ -105,6 +110,12 @@ declare module '$env/dynamic/private' {
 		TMPDIR: string;
 		CHROME_BIN: string;
 		PWD: string;
+		JSH_DOTENV: string;
+		NEXT_TELEMETRY_DISABLED: string;
+		ASTRO_TELEMETRY_DISABLED: string;
+		__NEXT_DISABLE_MEMORY_WATCHER: string;
+		NG_CLI_ANALYTICS: string;
+		EDITOR: string;
 		npm_config_user_agent: string;
 		INIT_CWD: string;
 		npm_config_update_notifier: string;
@@ -121,7 +132,6 @@ declare module '$env/dynamic/private' {
 		npm_config_metrics_registry: string;
 		npm_config_global_prefix: string;
 		npm_config_local_prefix: string;
-		EDITOR: string;
 		npm_node_execpath: string;
 		NODE: string;
 		COLOR: string;

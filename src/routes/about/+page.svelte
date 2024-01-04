@@ -3,17 +3,15 @@
 	<meta name="description" content="About this app" />
 </svelte:head>
 
-<script>
+<script lang=ts>
 
     import gif from '$lib/images/123.gif';
 
     import logo22 from '$lib/images/logo22.webp';
 
-
-
-<h1><pre><a href="/">HOME</a></pre></h1>
-
 <img alt="The project logo" src={gif} />
 
 <img alt="The project logo" src={logo22} />
+
+
 </script>
